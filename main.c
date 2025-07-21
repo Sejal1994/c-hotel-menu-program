@@ -7,7 +7,7 @@ int main()
 
 do
     {
-     printf("\nWelcome To XYZ Hotel\n");
+     printf("\nWelcome To Sejal Hotel\n");
     printf("Menu:\n");
     printf("1 Samosa 20/-\n");
     printf("2 Dosa   30/-\n");
